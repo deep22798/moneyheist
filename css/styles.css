@@ -1,0 +1,623 @@
+body{
+  text-align: center;
+  background-color: black;
+}
+.top-con{
+  text-align: center;
+  margin: 0 auto 0 auto;
+  height: 100px;
+  width: 100%;
+}
+.banner{
+  height: 600px;width: 100%;
+  background-color: black;
+  display:inline-table;
+  object-fit: contain;
+}
+
+.topic{
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+  font-size: 6.5rem;
+  text-align: center;
+  margin: 0 auto 0 auto;
+}
+.bannerimg{
+  height: 600px;
+  margin: 0 auto 0 auto;
+width: 100%;
+}
+.desc
+{
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.15rem;
+  margin: 0 auto 0 auto;
+text-align: center;
+  /* font-family: 'Great Vibes', cursive; */
+color: white;
+}
+
+/* .chhr{
+  border: solid 1px red
+  height: 0.5px;
+  margin: 0 auto 0 auto;
+  width:50%;
+  text-align: center;
+} */
+.characters{
+
+    margin: 50px auto 0 auto;
+  font-size:  5.5rem;
+  font-weight: bold;
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+  color: white;
+}
+h2{
+
+  color: red;
+  margin-left: 18px;
+  font-weight: bold;
+  font-size: 3.0rem;
+font-family: 'Josefin Sans', sans-serif;
+  text-align: left;
+}
+p
+{
+  margin-left: 18px;;
+  line-height: 2;
+  top: 100px;
+  color: white;
+  font-size: 1.5rem;
+  text-align: left;
+  width: 90%;
+}
+.third{
+  text-align: left;
+  float: left;
+  width: 100%;
+  background-color: black;
+}
+
+.professorimg{
+  margin: 50px 100px 50px 50px;
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  float: left;
+}
+.professorimg:hover{
+
+    border: solid 1px red;
+}
+
+
+.fourth{
+  margin: 30px;
+  text-align: left;
+  float: left;
+  width: 100%;
+  background-color: black;
+}
+
+.tokyoimg{
+  margin: 50px 100px 50px 50px;
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  float: right;
+}
+.tokyoimg:hover{
+
+    border: solid 1px red;
+}
+
+
+.fifth{
+  margin: 30px;
+  text-align: left;
+  float: left;
+  width: 100%;
+  background-color: black;
+}
+
+.berlinimg{
+  margin: 50px 100px 50px 50px;
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  float: left;
+}
+.berlinimg:hover{
+
+    border: solid 1px red;
+}
+
+.sixth{
+  margin: 30px;
+  text-align: left;
+  float: left;
+  width: 100%;
+  background-color: black;
+}
+
+.nairobiimg{
+  margin: 50px 100px 50px 50px;
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  float: right;
+}
+
+.nairobiimg:hover{
+
+    border: solid 1px red;
+}
+
+
+.seven{
+  margin: 30px;
+  text-align: left;
+  float: left;
+  width: 100%;
+  background-color: black;
+}
+
+.denverimg{
+  margin: 50px 100px 50px 50px;
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  float: left;
+}
+.denverimg:hover{
+
+    border: solid 1px red;
+}
+
+
+
+
+.eight{
+  margin: 30px;
+  text-align: left;
+  float: left;
+  width: 100%;
+  background-color: black;
+}
+
+.rioimg{
+  margin: 50px 100px 50px 50px;
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  float: right;
+}
+.rioimg:hover{
+
+    border: solid 1px red;
+}
+
+
+
+
+.nine{
+  margin: 30px;
+  text-align: left;
+  float: left;
+  width: 100%;
+  background-color: black;
+}
+
+.moscoimg{
+  margin: 50px 100px 50px 50px;
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  float: left;
+}
+.moscoimg:hover{
+
+    border: solid 1px red;
+}
+
+
+
+
+
+.ten{
+  margin: 30px;
+  text-align: left;
+  float: left;
+  width: 100%;
+  background-color: black;
+}
+
+.helsinkiimg{
+  margin: 50px 100px 50px 50px;
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  float: right;
+}
+.helsinkiimg:hover
+{
+      border: solid 1px red;
+}
+
+.eleven{
+  margin: 30px;
+  text-align: left;
+  float: left;
+  width: 100%;
+  background-color: black;
+}
+
+.osloimg{
+  margin: 50px 100px 50px 50px;
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  float: left;
+}
+.osloimg:hover{
+
+    border: solid 1px red;
+}
+
+
+
+
+.twelve{
+  margin: 30px;
+  text-align: left;
+  float: left;
+  width: 100%;
+  background-color: black;
+}
+
+.monicaimg{
+  margin: 50px 100px 50px 50px;
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  float: right;
+}
+.monicaimg:hover{
+
+    border: solid 1px red;
+}
+
+.thirteen{
+  margin: 30px;
+  text-align: left;
+  float: left;
+  width: 100%;
+  background-color: black;
+}
+
+.lisbonimg{
+  margin: 50px 100px 50px 50px;
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  float: left;
+}
+.lisbonimg:hover{
+
+    border: solid 1px red;
+}
+
+
+
+
+
+.fourteen{
+  margin: 30px;
+  text-align: left;
+  float: left;
+  width: 100%;
+  background-color: black;
+}
+
+.palermoimg{
+  margin: 50px 100px 50px 50px;
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  float: right;
+}
+.palermoimg:hover{
+
+    border: solid 1px red;
+}
+
+.fifteen{
+  margin: 30px;
+  text-align: left;
+  float: left;
+  width: 100%;
+  background-color: black;
+}
+
+.bogotaimg{
+  margin: 50px 100px 50px 50px;
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  float: left;
+}
+.bogotaimg:hover{
+    border: solid 1px red;
+}
+
+
+
+
+
+.sixteen{
+  margin: 30px;
+  text-align: left;
+  float: left;
+  width: 100%;
+  background-color: black;
+}
+
+.Marseilleimg{
+  margin: 50px 100px 50px 50px;
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  float: right;
+}
+.Marseilleimg:hover{
+  border: solid 1px red;
+}
+
+.bottomnav{
+
+  margin-bottom: 20px;
+  display: flex;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  text-align: center;
+  width: 100%;
+  /* background-color: white; */
+  float: right;
+}
+.bottomnav:hover{
+  border: solid 1px red;
+}
+.thank{
+margin: 0 auto 0 auto;
+    font-size:  3.5rem;
+    font-weight: bold;
+    font-family: 'Great Vibes', cursive;
+    text-align: center;
+    color: white;
+}
+
+
+.wlhr{
+  border:solid 0.5px red;
+  width: 50%;
+}
+
+
+.about{
+  /* background: #001923; */
+  /* background-color: green; */
+  backdrop-filter: blur(5px);
+  margin: 10px;
+  border-radius: 40px;
+  position: relative;
+text-align: center;
+}
+
+.logoimg{
+  user-select: none; /* supported by Chrome and Opera */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  margin: 10px;
+  border-radius: 100%;
+  height: 60px;
+  width: 60px;
+
+}
+
+.bottdesc{
+  user-select: none; /* supported by Chrome and Opera */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  margin: 0px auto 5px auto;
+text-align: center;
+font-family: 'Dancing Script', cursive;
+}
+
+.botttopic{
+  color: red;
+  user-select: none; /* supported by Chrome and Opera */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+
+margin: 0 auto 0 auto;
+font-weight: 100;
+}
+
+.bottom{
+  background-color: red;
+  display: flex;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  text-align: center;
+  width: 100%;
+  /* background-color: white; */
+
+}
+.bottom:hover{
+  border: solid 1px white;
+}
+.bottomnav:hover{
+  border: solid 1px red;
+}
+.bottavout{
+
+  margin: 10px;
+  border-radius: 40px;
+  position: relative;
+text-align: center;
+}
+.logo{
+  margin: 10px;
+  border-radius: 100%;
+  height: 60px;
+  width: 60px;
+
+}
+
+.botdesc{
+
+text-align: center;
+font-family: 'Dancing Script', cursive;
+}
+
+.boottop{
+
+margin: 0 auto 0 auto;
+font-weight: 100;
+}
+
+
+
+.one{
+  text-align: center;
+  width: 25%;
+}
+
+.onel{
+  user-select: none; /* supported by Chrome and Opera */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  margin: 10px;
+  border-radius: 100%;
+  height: 60px;
+  width: 60px;
+
+}
+.oneh{
+  color: black;
+  margin: 0px auto 0px auto;
+}
+.oned{
+  font-size: 15px;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+
+.two{
+  margin: 0 20px 0 20px
+  text-align: center;
+  width: 10%;
+}
+.twol{
+  user-select: none; /* supported by Chrome and Opera */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  margin: 10px;
+  border-radius: 100%;
+  height: 60px;
+  width: 60px;
+
+}
+
+.three{
+  width: 25%;
+}
+.threel{
+  user-select: none; /* supported by Chrome and Opera */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  margin: 10px;
+  border-radius: 100%;
+  height: 60px;
+  width: 60px;
+
+}
+
+.four{
+  width: 35%;
+}
+.fourl{
+  user-select: none; /* supported by Chrome and Opera */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  margin: 5px;
+  border-radius: 100%;
+  height: 60px;
+  width: 60px;
+
+}
+
+
+.subs{
+  font-size: 30px;
+}
+.foorm{
+  border-radius: 5px;
+padding: 20px;
+}
+
+.eml{
+  width: 100%;
+  padding: 8px 12px;
+  margin: 8px 0;
+  display: inline-block;
+
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.sub{
+  background-color: black;
+  color: white;
+  font-size: 25px
+  margin: 0 auto 0 auto;
+  width: 100%;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.subhr{
+
+    margin: 0 auto 0 auto;
+    border: solid 1px white;
+  width: 50%;
+}
+
+.poli{
+  color: black;
+}
+.policies{
+  text-align: center;
+    margin: 0px auto 0px auto;
+}
